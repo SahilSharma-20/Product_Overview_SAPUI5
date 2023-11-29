@@ -1,7 +1,5 @@
-![Main Page](![image](https://github.com/SahilSharma-20/Product_Overview_SAPUI5/assets/75215825/95040dcb-3c89-4d81-a8f4-8bb3ae0c6eb5)
-)
-![Object Page](![image](https://github.com/SahilSharma-20/Product_Overview_SAPUI5/assets/75215825/4de09c86-61df-4981-bd38-e34c4edb7b39)
-)
+![image](https://github.com/SahilSharma-20/Product_Overview_SAPUI5/assets/75215825/cd296049-0c39-49f9-b4e2-360499ae0389)
+
 ## Application Details
 |               |
 | ------------- |
